@@ -1,0 +1,13 @@
+[package]
+name = "non-english-word-extractor"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.19"
+pdf-extract = "0.6.3"
+regex = "1"
+epub = "1.2.3"
+html2text = "0.4.2"
